@@ -1,6 +1,6 @@
 # Programacao_Dinamica
 
-# Programacao_Dinamica
+# Programacao Dinamica
 
 **Conteúdo da Disciplina**: Programacao Dinamica <br>
 
@@ -14,8 +14,6 @@
 ## Sobre
 
 <!-- Descreva os objetivos do seu projeto e como ele funciona. -->
-
-### Escolha da plataforma
 
 ### Link para o vídeo de apresentação
 
