@@ -1,5 +1,3 @@
-# Programacao_Dinamica
-
 # Programacao Dinamica
 
 **Conteúdo da Disciplina**: Programacao Dinamica <br>
@@ -25,10 +23,10 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 | Questão | Nome                                                                                                  | Dificuldade |
 | ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
-| 04      | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Média     |
-| 493     |                          | Difícil     |
-| 23      |                         | Difícil     |
-| 347     |         | Média       |
+| 787      | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Média     |
+|     |                          | Difícil     |
+|      |                         | Difícil     |
+|     |         | Média       |
 
 ### Link para o vídeo de apresentação
 
