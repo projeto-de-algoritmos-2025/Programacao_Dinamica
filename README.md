@@ -24,7 +24,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 | Questão | Nome                                                                                                  | Dificuldade |
 | ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
 | 787      | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Média     |
-|     |                          | Difícil     |
+|   115  |  [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)                      | Difícil     |
 |      |                         | Difícil     |
 |     |         | Média       |
 
@@ -37,6 +37,10 @@ Segue abaixo Screenshots demonstrando que as soluções para os respectivos prob
 Questão 787 - Cheapest Flights Within K Stops
 
 ![Questão 787 - Cheapest Flights Within K Stops](ProgramacaoDinamica/Questao_787/LC787.png)
+
+Questão 115 - Distinct Subsequences
+
+![Questão 115 - Distinct Subsequences](ProgramacaoDinamica/Questao_115/LC115.png)
 
 ## Instalação
 
