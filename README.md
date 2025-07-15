@@ -21,12 +21,12 @@ Para este trabalho de Programacao Dinamica, opitamos por utilizar um juiz eletr�
 
 Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns exercícios sobre os conteúdos acerca de Programacao Dinamica. Foram definidas 4 questões a serem resolvidas, sendo duas deles de nível médio e duas de nível difícil. Abaixo podemos identificar as questões que foram resolvidas dentro do juiz eletrônico LeetCode:
 
-| Questão | Nome                                                                                                  | Dificuldade |
-| ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
-| 787      | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Média     |
-|   115  |  [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)                      | Difícil     |
-|      |                         | Difícil     |
-|     |         | Média       |
+| Questão | Nome                                                                                                          | Dificuldade |
+| ------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
+| 787     | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Média       |
+| 115     | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)                     | Difícil     |
+| 42      | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                     | Difícil     |
+| 312     | [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)                                   | Difícil     |
 
 ### Link para o vídeo de apresentação
 
@@ -41,6 +41,14 @@ Questão 787 - Cheapest Flights Within K Stops
 Questão 115 - Distinct Subsequences
 
 ![Questão 115 - Distinct Subsequences](ProgramacaoDinamica/Questao_115/LC115.png)
+
+Questão 42 - Trapping Rain Water
+
+![Questão 42 - Trapping Rain Water](ProgramacaoDinamica/Questao_42/42.png)
+
+Questão 312 - Distinct Subsequences
+
+![Questão 312 - Burst Balloons](ProgramacaoDinamica/Questao_312/312.png)
 
 ## Instalação
 
